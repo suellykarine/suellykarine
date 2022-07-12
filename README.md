@@ -26,8 +26,9 @@ Tenho como objetivo trazer todas as técnicas que desenvolvi ao longo dos anos n
 ### Contatos:
 <div>
 <a href="https://www.linkedin.com/in/suellyaraujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-https://portifolio-su.vercel.app/  :file_folder:
 </div>
+
+### https://portifolio-su.vercel.app/  :file_folder:
           
           
           
