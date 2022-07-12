@@ -27,6 +27,7 @@ Tenho como objetivo trazer todas as técnicas que desenvolvi ao longo dos anos n
 <div>
 <a href="https://www.linkedin.com/in/suellyaraujo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
 #### :iphone: +55 81 9 99568300
 
 #### :file_folder: https://portifolio-su.vercel.app/  
