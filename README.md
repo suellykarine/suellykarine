@@ -11,3 +11,17 @@ Com a formação em FrontEnd agora minha meta é continuar a me aprofundar em bu
 Tenho como objetivo trazer todas as técnicas que desenvolvi ao longo dos anos no mercado juntamente com as que adquiri recentemente. Aqui trago alguns dos projetos que contribuiram no meu aprendizado e você pode conferir.
 
 #tecnologias :computer:
+
+### Front-End
+HTML5
+CSS3
+ReactJS
+TypeScript
+
+### Back-End
+NodeJs
+PostgreSql
+MySql
+TypeScript
+Docker
+
