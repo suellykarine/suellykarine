@@ -17,8 +17,8 @@ HTML5
 CSS3
 ReactJS
 TypeScript
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
-          
+### img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+                   
 
 ### Back-End
 NodeJs
