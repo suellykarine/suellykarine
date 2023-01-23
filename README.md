@@ -10,7 +10,7 @@ Com a formação em Fullstack minha meta é continuar a me aprofundar  e contrib
 
 Tenho como objetivo agregar todas as técnicas que desenvolvi ao longo dos anos no mercado com as que adquiri recentemente. Aqui trago alguns dos projetos que contribuiram no meu aprendizado e você pode conferir.
 
-### Ferramentas e Tecnologias :computer:
+### Ferramentas e Tecnologias :computer: :wrench:
 
 ### Front-End
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
