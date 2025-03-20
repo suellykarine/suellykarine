@@ -2,13 +2,11 @@
 
 ### Bem vindo ao meu perfil GitHub 👋
 
-Aprendi com o tempo que mudanças são bem-vindas e começos são necesssários! Sou turismóloga de formação e pós-graduada em educação. Após perceber que podia chegar mais longe, me encantei pela área de tecnologia e decidi fazer a transição de carreira para adquirir mais conhecimentos e experiências.
+Aprendi ao longo da minha trajetória que mudanças são bem-vindas e essenciais para o crescimento. Minha formação inicial é em turismo, com pós-graduação em Educação, e foi essa paixão por aprendizado contínuo que me levou à transição para a área de Tecnologia.
 
+Há três anos, venho atuando como Desenvolvedora web Full-Stack, construindo soluções escaláveis, acessíveis e de alto desempenho. Meu foco é entregar aplicações eficientes, combinando boas práticas de desenvolvimento, colaboração em equipe e aprimoramento contínuo.
 
-Com a formação em Fullstack minha meta é continuar a me aprofundar  e contribuir com os meus conhecimentos além de alcançar o sucesso profissional no mundo da tecnologia.
-
-
-Tenho como objetivo agregar todas as técnicas que desenvolvi ao longo dos anos no mercado com as que adquiri recentemente. Aqui trago alguns dos projetos que contribuiram no meu aprendizado e você pode conferir.
+Aqui trago alguns dos projetos que contribuiram no meu aprendizado e você pode conferir.
 
 ### Ferramentas e Tecnologias :computer: :wrench:
 
