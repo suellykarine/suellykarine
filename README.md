@@ -29,6 +29,7 @@ Aqui trago alguns dos projetos que contribuiram no meu aprendizado e você pode 
 </div>
 
 #### :iphone: +55 81 9 99568300
+suellykarine@gmail.com
 
 #### :file_folder: https://portifolio-su.vercel.app/  
 
