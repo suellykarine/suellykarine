@@ -4,7 +4,7 @@
 
 Aprendi ao longo da minha trajetória que mudanças são bem-vindas e essenciais para o crescimento. Minha formação inicial é em turismo, com pós-graduação em Educação, e foi essa paixão por aprendizado contínuo que me levou à transição para a área de Tecnologia.
 
-Há três anos, venho atuando como Desenvolvedora web Full-Stack, construindo soluções escaláveis, acessíveis e de alto desempenho. Meu foco é entregar aplicações eficientes, combinando boas práticas de desenvolvimento, colaboração em equipe e aprimoramento contínuo.
+Desde 2021, venho atuando como Desenvolvedora web Full-Stack, construindo soluções escaláveis, acessíveis e de alto desempenho. Meu foco é entregar aplicações eficientes, combinando boas práticas de desenvolvimento, colaboração em equipe e aprimoramento contínuo.
 
 Aqui trago alguns dos projetos que contribuiram no meu aprendizado e você pode conferir.
 
@@ -31,7 +31,7 @@ Aqui trago alguns dos projetos que contribuiram no meu aprendizado e você pode 
 #### :iphone: +55 81 9 99568300
 #### 📧 suellykarine@gmail.com
 
-#### :file_folder: https://portifolio-su.vercel.app/  
+#### :file_folder: https://portifolio-su.vercel.app/ ](https://portfolio-digital-suelly.vercel.app/
 
 
 <div>
